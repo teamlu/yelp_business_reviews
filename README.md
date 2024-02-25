@@ -1,15 +1,15 @@
 # Restaurant Review Sentiment Analysis
 
 ## Overview
-This project conducts a detailed sentiment analysis of customer reviews for Saffron Indian Kitchen. The intent is to provide restaurant owners actionable insights using customer feedback to enhance dining experiences and operational strategies.
+This project enables anyone to conduct sentiment analysis of customer reviews provided by Yelp. The intent is to provide owners in the service business actionable insights based on online reviews to enhance customer experiences.
 
 ## Features
 - Sentiment scoring of customer reviews.
-- Identification of top-performing and underperforming menu items.
 - Trend analysis of customer satisfaction over time.
+- Identification of top-performing and underperforming (menu) items.
 
 ## Data
-The [dataset](https://www.yelp.com/dataset) includes customer reviews from Yelp.
+The [dataset](https://www.yelp.com/dataset) includes customer reviews from Yelp and business information.
 
 ## Tech
 Using Python for transformations, Clickhouse for warehousing, SQL for aggregation, and Hex for data visualization, I extract key insights for Saffron Indian Kitchen - a chain of Mom & Pop Indian restaurants in Pennsylvania.
