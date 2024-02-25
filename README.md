@@ -11,18 +11,15 @@ This project conducts a detailed sentiment analysis of customer reviews for Saff
 ## Data
 The [dataset](https://www.yelp.com/dataset) includes customer reviews from Yelp.
 
-## Analysis
+## Tech
 Using Python for transformations, Clickhouse for warehousing, SQL for aggregation, and Hex for data visualization, I extract key insights for Saffron Indian Kitchen - a chain of Mom & Pop Indian restaurants in Pennsylvania.
 
-## Insights
-The analysis reveals key areas for celebration and improvement. The Murg Vindaloo and Chicken Tikka Masala recipes are flagged for refinement, while the excellent customer service and dishes like Papri Chaat and Mutter Paneer are highlighted as strengths.
-
 ## Usage
-To run the analysis, follow these steps:
+To run the project, follow these steps:
 
 1. Clone the repository:
 ```
-git clone [URL to repository]
+git clone https://github.com/teamlu/yelp_business_reviews.git
 ```
 
 2. Create a virtual environment (optional but recommended):
